@@ -17,6 +17,6 @@ Basically when an Oracle client connects to a SCAN (provided that you use a >11g
 
 Thus, the requirements are :
 - The client should resolve the 3 IPs, so on the client machine type :
-```bash
+```shell
 nslookup myscan.db.com
 ```
