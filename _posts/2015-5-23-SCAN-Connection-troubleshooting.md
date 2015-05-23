@@ -16,7 +16,7 @@ Basically when an Oracle client connects to a SCAN (provided that you use a >11g
 - It will connect to a local listener usually an a cluster VIP
 
 Thus, the requirements are :
-- The client should resolve the 3 IPs, so on the client machine type :
-```shell
+* The client should resolve the 3 IPs, so on the client machine type :
+```
 nslookup myscan.db.com
 ```
