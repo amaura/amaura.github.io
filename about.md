@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently working at Oracle as a consultant on Database, Weblogic, Linux, ...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm currently interested a lot in Docker, ansible, etc. And Wine.
